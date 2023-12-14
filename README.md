@@ -1,6 +1,6 @@
 Well I work in tech, for a bunch of time now, but still think it is difficult to prepare newcomers to deal with git errors, <strike>partially because the new generation doesn't have the attention time span to read</strike> the messages, that are quite good.
 
-I am looking for a way to develop a training material that goes beyond the init/commit/pull/push, that try to cover all those situations in which junior developers simply copy there is changes to another folder, delete e re-clone the repo and try to restore their evolution.
+I am looking for a way to develop a training material that goes beyond the init/commit/pull/push, that try to cover all those situations in which junior developers simply copy their  changes to another folder, delete e re-clone the repo and try to restore their evolution.
 
 So **do you have any suggestions on good training for pitfalls on Git?** 
 
